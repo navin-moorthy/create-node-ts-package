@@ -1,5 +1,6 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"enabled": false,
 	"automerge": true,
 	"ignoreDeps": ["codecov/codecov-action"],
 	"internalChecksFilter": "strict",
